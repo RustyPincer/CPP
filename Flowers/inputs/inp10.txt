@@ -1,0 +1,7 @@
+5
+Falank p 7
+Sudar d 5
+Nyulank d 3
+Kerge d 5
+Terem d 3
+1
